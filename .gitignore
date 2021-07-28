@@ -1,0 +1,6 @@
+
+salida/*.txt
+# El *.txt indica q va a ignorar todos los archivos txt que esten dentro de /salida
+
+node_modules/
+# Con solo poner npm install nos vuelve a descargar todos los modulos que necesita nuestra app, (todos los que se encuentra en el package.json)
